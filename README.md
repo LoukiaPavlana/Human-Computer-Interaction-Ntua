@@ -36,3 +36,10 @@ This project is a fitness tracking app designed to serve as a comprehensive fitn
 
 
 The app provides users with insights into personal fitness data, helping them understand what works for them and what doesn’t. It offers a holistic view of their fitness journey, aiding in informed decision-making about health and wellness.
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/26461235-1d89-417a-8fda-5ba147d330e0" />
+</div>
+
+
